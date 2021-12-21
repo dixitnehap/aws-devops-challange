@@ -1,0 +1,10 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "aws-devops-challange"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-159jz7d0tz3zi"
+s3_prefix = "aws-devops-challange"
+region = "eu-central-1"
+capabilities = "CAPABILITY_IAM"
+image_repositories = []
