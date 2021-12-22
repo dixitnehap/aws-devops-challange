@@ -22,9 +22,9 @@ On successful execution of GitHub Workflow, Go to the "Run sam deploy" stag and 
 You should see similar output like below example. Fetch the DevopsHttpApi URL from the value to test the API.
 
 CloudFormation outputs from deployed stack
--------------------------------------------------------------------------------------------------
+_________________________________________________________________________________________________
 Outputs                                                                                         
--------------------------------------------------------------------------------------------------
+_________________________________________________________________________________________________
 Key                 DevopsHttpApiFunctionIamRole                                                
 Description         Implicit IAM Role created for Devops Http Api function                      
 Value               arn:aws:iam::...:role/aws-devops-challange-                        
@@ -36,9 +36,9 @@ Value               https://0pccivschc.execute-api.eu-central-1.amazonaws.com/ap
 
 Key                 DevopsHttpApiFunction                                                       
 Description         Devops Http Api Lambda Function ARN                                         
-Value               arn:aws:lambda:eu-central-1:***:function:aws-devops-challange-
+Value               arn:aws:lambda:eu-central-1:...:function:aws-devops-challange-
 DevopsHttpApiFunction-I2VfeynN4kWb                                                              
--------------------------------------------------------------------------------------------------
+_________________________________________________________________________________________________
 
 Successfully created/updated stack - aws-devops-challange in eu-central-1
 
