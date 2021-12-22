@@ -27,7 +27,7 @@ Outputs
 -------------------------------------------------------------------------------------------------
 Key                 DevopsHttpApiFunctionIamRole                                                
 Description         Implicit IAM Role created for Devops Http Api function                      
-Value               arn:aws:iam::***:role/aws-devops-challange-                        
+Value               arn:aws:iam::...:role/aws-devops-challange-                        
 DevopsHttpApiFunctionRole-1THEZI15VBIM3                                                         
 
 Key                 DevopsHttpApi                                                               
